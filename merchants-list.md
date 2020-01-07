@@ -16,6 +16,17 @@ Lastly, create a branch and commit the changes and send a pull request
 
 For verification of businesses, just do the same thing and add some proof to the pull request or simply [create an issue](https://gitlab.com/nolim1t/bitcoin-merchants/issues/new) about it.
 
+Using webpage mode
+--------------
+
+* Run ``bundle install``
+* Run ``bundle exec jekyll serve`` (or replace serve with build)
+
+The above will generate the list into a static HTML page.
+
+Currently we aren't using any HTML page as of now.
+
+
 Verification Statuses
 --------------
 
