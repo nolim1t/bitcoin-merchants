@@ -26,16 +26,12 @@ Verification Statuses
 ❌ = Means they no longer take bitcoin, and should be removed from the list
 
 
-Bitcoin lightning Enabled Merchants
+Merchant List - Chiang Mai
 --------------
 
 | merchant category | merchant name      | Status              | Location                       | Verified
 |-------------------|:-------------------|:--------------------|:-------------------------------|:--------------
-| food              | food4thought       | On-chain Only       | Coords: 18.806191, 98.961333   | ⚠️
+| food              | food4thought       | Lightning/Onchain   | Coords: 18.806191, 98.961333   | ⚠️
 | food              | Alice's Restaurant | Lightning/Onchain   | Coords: 18.784213, 98.997287   | ⚠️
 
 
-On-chain bitcoin enabled merchants
---------------
-
-To be completed soon
