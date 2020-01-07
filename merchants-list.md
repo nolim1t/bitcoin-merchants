@@ -5,6 +5,15 @@ permalink: /merchants/
 
 My Curated List of lightning enabled merchants.
 
+Contributing
+--------------
+
+To contribute, simply update ``merchanges-list.md`` in the similar format and then copy it across to README.md
+
+Then remove the top 4 lines in README.md
+
+Lastly, create a branch and commit the changes and send a pull request
+
 Bitcoin lightning Enabled Merchants
 --------------
 
