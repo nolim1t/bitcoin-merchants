@@ -9,12 +9,12 @@ Then remove the top 4 lines in README.md
 
 Lastly, create a branch and commit the changes and send a pull request
 
-For verification of businesses, just do the same thing and add some proof to the pull request.
+For verification of businesses, just do the same thing and add some proof to the pull request or simply [create an issue](https://gitlab.com/nolim1t/bitcoin-merchants/issues/new) about it.
 
 Verification Statuses
 --------------
 
-⚠️  = Means that the business accepts the bitcoin but might have problems. Or the business hasn't been verified.
+⚠️  = Means that the business accepts the bitcoin but might have problems. Or the business hasn't been verified to have taken bitcoin. If you have success please [report it here](https://gitlab.com/nolim1t/bitcoin-merchants/issues/new). It is important that you let us know if it was lightning or non-lightning.
 
 ✅ = Means they have taking bitcoin recently
 
