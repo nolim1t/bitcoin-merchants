@@ -1,0 +1,8 @@
+theme: jekyll-theme-hacker
+title: "Bitcoin enabled merchants"
+description: "<a href=\"https://gitlab.com/nolim1t/\">@nolim1t</a>'s collection of merchants that take currency without borders (🕊👫👭👬🧕👳☮️)"
+
+exclude: ["README.md", "LICENSE", ".git", "Gemfile", "Rakefile", "Gemfile.lock"]
+gems:
+  - jekyll-paginate
+  - jekyll-feed
