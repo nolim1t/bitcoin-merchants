@@ -1,4 +1,4 @@
-My Curated List of lightning enabled merchants.
+My Curated List of bitcoin (onchain and lightning) merchants.
 
 Contributing
 --------------
@@ -9,11 +9,15 @@ Then remove the top 4 lines in README.md
 
 Lastly, create a branch and commit the changes and send a pull request
 
+For verification of businesses, just do the same thing and add some proof to the pull request.
+
 Verification Statuses
 --------------
 
-⚠️ = Means that the business accepts the bitcoin but might have problems.
+⚠️  = Means that the business accepts the bitcoin but might have problems. Or the business hasn't been verified.
+
 ✅ = Means they have taking bitcoin recently
+
 ❌ = Means they no longer take bitcoin, and should be removed from the list
 
 
