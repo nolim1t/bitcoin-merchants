@@ -32,6 +32,14 @@ Verification Statuses
 ❌ = Means they no longer take bitcoin, and should be removed from the list
 
 
+Merchant List - Online
+--------------
+
+| merchant category | merchant name             | Status              | Location                       | Verified
+|-------------------|:--------------------------|:--------------------|:-------------------------------|:--------------
+| email provider    | protonmail                | Onchain             | protonmail.com  protonirockerxow.onion | 
+
+
 Merchant List - Chiang Mai
 --------------
 
