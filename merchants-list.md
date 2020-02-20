@@ -44,7 +44,6 @@ Merchant List - Online
 |-------------------|:--------------------------|:--------------------|:-------------------------------|:--------------
 | email provider    | protonmail                | Onchain             | protonmail.com  protonirockerxow.onion | ✅
 
-
 Merchant List - Chiang Mai
 --------------
 
