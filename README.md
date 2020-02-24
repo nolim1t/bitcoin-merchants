@@ -31,6 +31,10 @@ Verification Statuses
 
 ❌ = Means they no longer take bitcoin, and should be removed from the list
 
+Listing Quality
+--------------
+
+All these listings accept bitcoin at the very minimum. There is no substitute for shitcoinery other than the real thing.
 
 Merchant List - Online
 --------------
