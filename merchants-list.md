@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /merchants/
+permalink: /bitcoin-merchants/
 ---
 
 My Curated List of bitcoin (onchain and lightning) merchants.
