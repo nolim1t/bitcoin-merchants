@@ -58,3 +58,16 @@ Merchant List - Chiang Mai
 | food              | Boo bar in the old city   | Lightning/Onchain   | Coords: 18.785712, 98.981692   | ⚠️
 | food              | Sababa Israeli Restaurant | Lightning/Onchain   | Coords: 18.784971, 99.002990   | ✅
 
+
+Lightning nodes
+--------------
+
+As a big supporter and also developer with the bitcoin lightning network (and any other scalability stuff), I'd also like the share a list of nodes which you can connect to and provide liquidity. The focus is on TOR, so if there is a ✅ then its a TOR node or an ❌ if it isn't.
+
+| Node URI                                                            | Privacy/Tor Enabled    | Status
+|---------------------------------------------------------------------|:-----------------------|:-------------------
+| ```02e64be984a252d82d71a84f0f2bb8be375207a0862e827dacb290977eca84078f@lncmnlgypuendl5t.onion:9735``` | ✅ | Onlline
+|  ```02e64be984a252d82d71a84f0f2bb8be375207a0862e827dacb290977eca84078f@2qtnbs2vwsmhdalmyd5ftmxp6w6clepaawyys6ndmneb6g2qxn7bkpad.onion:9735``` | ✅ | Online
+
+
+
