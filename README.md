@@ -72,6 +72,7 @@ As a big supporter and also developer with the bitcoin lightning network (and an
 
 | Node URI                                                            | Privacy/Tor Enabled    | Status
 |---------------------------------------------------------------------|:-----------------------|:-------------------
-| ```02e64be984a252d82d71a84f0f2bb8be375207a0862e827dacb290977eca84078f@lncmnlgypuendl5t.onion:9735``` | ✅ | Onlline
 |  ```02e64be984a252d82d71a84f0f2bb8be375207a0862e827dacb290977eca84078f@2qtnbs2vwsmhdalmyd5ftmxp6w6clepaawyys6ndmneb6g2qxn7bkpad.onion:9735``` | ✅ | Online
+| ``` 03767ce0f59c706e8889fe1f58a41a85f9c85aeb981e3d5f79b6b70a3b2482ad6a@denroaqhkqmpdkzctjpwotpn5pqzkapyx3bn324q25apzog4wdewikid.onion:9735``` | ✅ | Online
+
 
