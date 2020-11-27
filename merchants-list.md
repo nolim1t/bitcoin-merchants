@@ -53,7 +53,7 @@ Merchant List - Chiang Mai
 
 | merchant category | merchant name             | Status              | Location                       | Verified
 |-------------------|:--------------------------|:--------------------|:-------------------------------|:--------------
-| food              | food4thought              | Lightning/Onchain   | Coords: 18.806191, 98.961333   | ⚠️
+| food              | food4thought              | Lightning/Onchain   | Coords: 18.806191, 98.961333   | ❌
 | food              | Alice's Restaurant        | Lightning/Onchain   | Coords: 18.784213, 98.997287   | ⚠️
 | food              | Boo bar in the old city   | Lightning/Onchain   | Coords: 18.785712, 98.981692   | ✅
 | food              | Sababa Israeli Restaurant | Lightning/Onchain   | Coords: 18.784971, 99.002990   | ✅
