@@ -1,0 +1,23 @@
+image: ruby:2.3
+
+variables:
+    JEKYLL_ENV: production
+    GIT_SUBMODULE_STRATEGY: recursive
+
+before_script:
+    - bundle install
+    - git submodule sync --recursive
+    - git submodule foreach git pull origin master
+    - ./scripts/rename-tool.sh
+
+pages:
+    except:
+    - schedules
+    stage: deploy
+    script:
+    - bundle exec jekyll build -d public
+    artifacts:
+        paths:
+        - public
+    only:
+    - master
