@@ -1,4 +1,13 @@
 My Curated List of bitcoin (onchain and lightning) merchants.
+Table of Contents
+--------------
+
+* [Merchants in Chiang Mai](#merchant-list-chiang-mai)
+    * [Verification Statuses](#verification-statuses)
+* [Merchants online](#merchant-list-online)
+* [How to Contribute](#contributing)
+* [Lightning nodes](#lightning-nodes)
+* [Mirrors](#mirrors)
 
 Contributing
 --------------
