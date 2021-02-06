@@ -3,9 +3,7 @@ My Curated List of bitcoin (onchain and lightning) merchants.
 Contributing
 --------------
 
-To contribute, simply update ``merchanges-list.md`` in the similar format and then copy it across to README.md
-
-Then remove the top 4 lines in README.md
+To contribute, simply update ``README.md`` in the follow repos [(1)](https://gitlab.com/nolim1t/bitcoin-merchants) [(2)](https://github.com/nolim1t/bitcoin-merchants)
 
 Lastly, create a branch and commit the changes and send a pull request
 
