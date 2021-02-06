@@ -1,5 +1,5 @@
 My Curated List of bitcoin (onchain and lightning) merchants.
-
+3
 Table of Contents
 --------------
 
@@ -51,7 +51,9 @@ As a big supporter and also developer with the bitcoin lightning network (and an
 | Node URI                                                            | Privacy/Tor Enabled    | Status
 |---------------------------------------------------------------------|:-----------------------|:-------------------
 |  ```02e64be984a252d82d71a84f0f2bb8be375207a0862e827dacb290977eca84078f@2qtnbs2vwsmhdalmyd5ftmxp6w6clepaawyys6ndmneb6g2qxn7bkpad.onion:9735``` | ✅ | Online
-| ``` 03767ce0f59c706e8889fe1f58a41a85f9c85aeb981e3d5f79b6b70a3b2482ad6a@denroaqhkqmpdkzctjpwotpn5pqzkapyx3bn324q25apzog4wdewikid.onion:9735``` | ✅ | Online
+|  ```027cf9967a2d79631c665417b363d7113764bdede6c7bc21897062655448cd3581@flh6m6hd4wg4o2e5bfdelg4cobvsmcp5cxftaujsvwou5wg5iuwe5wad.onion:9735``` | ✅ | Online
+|  ```03f1b1b79212e5918177f357e8db1eb60f163d7140bcd818444e2dae75884dd3e0@2u4i4ofm4owow576qeii3s5qz3r7z272obaeyzouehkdyr4oy54wkpad.onion``` | ✅ | Online
+| ``` 03767ce0f59c706e8889fe1f58a41a85f9c85aeb981e3d5f79b6b70a3b2482ad6a@denroaqhkqmpdkzctjpwotpn5pqzkapyx3bn324q25apzog4wdewikid.onion:9735``` | ✅ | Offline (decommissioned)
 
 Verification Statuses
 --------------
