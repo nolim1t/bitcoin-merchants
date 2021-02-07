@@ -1,5 +1,5 @@
 My Curated List of bitcoin (onchain and lightning) merchants.
-3
+
 Table of Contents
 --------------
 
