@@ -22,6 +22,8 @@ Merchant List - Online
 |-------------------|:--------------------------|:--------------------|:-------------------------------|:--------------
 | email provider    | protonmail                | Onchain             | protonmail.com  protonirockerxow.onion | ✅
 | vpn provider      | satoshi vpn               | Onchain             | satoshivpn.com                 | ✅
+| e-Sim card        | silent.link               | lightning           | https://silent.link/           | ✅
+
 
 Merchant List - Chiang Mai
 --------------
@@ -29,6 +31,7 @@ Merchant List - Chiang Mai
 | merchant category | merchant name                   | Status              | Location                                         | [Verified](#verification-statuses)
 |-------------------|:--------------------------------|:--------------------|:-------------------------------------------------|:--------------
 | food              | Roses Corner / Burrito Squad    | Lightning            | Coords: 18.798659275372007, 98.97528476924447   | ✅
+| food              | Signature Seafood & Grill       | Lightning            | Coords: 9.709133185391384, 99.98742069337902    | ✅
 | food              | Boo bar in the old city         | Lightning/Onchain    | Coords: 18.785712, 98.981692                    | ⚠️
 | food              | Sababa Israeli Restaurant       | Lightning            | Coords: 18.782201, 98.994247                    | ✅
 | coworking/cafe    | Yellow Coworking & Cafe         | Lightning/Onchain    | Coords: 18.798485, 98.968861                    | ✅
@@ -51,9 +54,9 @@ As a big supporter and also developer with the bitcoin lightning network (and an
 
 | Node URI                                                            | Privacy/Tor Enabled    | Status
 |---------------------------------------------------------------------|:-----------------------|:-------------------
-|  ```027cf9967a2d79631c665417b363d7113764bdede6c7bc21897062655448cd3581@flh6m6hd4wg4o2e5bfdelg4cobvsmcp5cxftaujsvwou5wg5iuwe5wad.onion:9735``` | ✅ | Online
-|  ```02a6ae00f1e658e23447b5fd3a03acc42ddd0e80350ce4fc02ee33bffc095d0187@yyutnbdey2r6sngbd4iujldkvyxecwjfehrctybniruhvwhpxqwpazyd.onion:9735``` | ✅ | Online
-
+| ```027cf9967a2d79631c665417b363d7113764bdede6c7bc21897062655448cd3581@flh6m6hd4wg4o2e5bfdelg4cobvsmcp5cxftaujsvwou5wg5iuwe5wad.onion:9735``` | ✅ | Online
+| ```02a6ae00f1e658e23447b5fd3a03acc42ddd0e80350ce4fc02ee33bffc095d0187@yyutnbdey2r6sngbd4iujldkvyxecwjfehrctybniruhvwhpxqwpazyd.onion:9735``` | ✅ | Online
+| ```034b450402ad76d02586883ba61eadd5368cd2ae132e9090918d5c1e5c0c3376d6@7un3ut7cdl67nu2bmze7yqo4h52rfpfpdbsztx6s7mkrrjraimwjhwyd.onion:9735``` | ✅ | Online
 
 Verification Statuses
 --------------
