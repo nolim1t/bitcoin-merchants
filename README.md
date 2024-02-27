@@ -30,12 +30,13 @@ Merchant List - Chiang Mai
 
 | merchant category | merchant name                   | Status              | Location                                         | [Verified](#verification-statuses)
 |-------------------|:--------------------------------|:--------------------|:-------------------------------------------------|:--------------
-| food              | Roses Corner / Burrito Squad    | Lightning            | Coords: 18.798659275372007, 98.97528476924447   | ✅
-| food              | Signature Seafood & Grill       | Lightning            | Coords: 9.709133185391384, 99.98742069337902    | ✅
-| food              | Boo bar in the old city         | Lightning/Onchain    | Coords: 18.785712, 98.981692                    | ⚠️
+| food / cannabis             | Roses Corner / Burrito Squad    | Lightning  (onchain maybe possible over 1M sats if you precoordinate)            | Coords: 18.798659275372007, 98.97528476924447   | ✅
+| food              | The District Steaks & Seafood   | Lightning (onchain maybe possible over 1M sats)            | Coords: 9.709133185391384, 99.98742069337902    | ✅
 | food              | Sababa Israeli Restaurant       | Lightning            | Coords: 18.782201, 98.994247                    | ✅
 | coworking/cafe    | Yellow Coworking & Cafe         | Lightning/Onchain    | Coords: 18.798485, 98.968861                    | ✅
-
+| food              | La Casa                         | Lightning (onchain maybe possible over 1M sats) | Coords: 9.702031062397786, 100.01602745962184 | ✅
+| cannabis          | Sinsemilla                      | Lightning (onchain maybe possible over 1M sats) | Order from La Casa or The District | ✅
+| accomodation      | Downtown Phangan                | Lightning (onchain maybe possible over 1M sats) | Send a DM on [instagram](https://www.instagram.com/downtownphangan/) or [nostr](https://njump.me/npub1lth5tg4pcpvdqq290r2h9aw4a6lhyz6wx8mhxy9kzmm2r39kqfvquf9kax) or [facebook](https://www.facebook.com/downtownphangan/) | ✅
 
 Mirrors
 --------------
